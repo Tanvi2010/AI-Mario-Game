@@ -1,0 +1,50 @@
+.heading{
+    background-color: rgb(255, 114, 95);
+    color: white;
+    text-align: left;
+    margin-top: 0px;
+}
+.heading h2 {
+    display:inline;
+}
+
+.heading button {
+    float: right;
+}
+.Marioimg{
+    width: 100%;
+}
+
+.playbtn{
+    width: 10%;
+    font-size: 20px;
+    font-family: fantasy;
+}
+#status{
+    background-color: paleturquoise;
+    width: 30%;
+    font-size: 30px;
+    font-family: fantasy;
+    color: rgb(247, 125, 125);
+    border-radius: 20px;
+}
+video{
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+#ins{
+    display: inline-block;
+    width: 45%;
+}
+
+#credit{
+    background-color: lemonchiffon;
+}
+
